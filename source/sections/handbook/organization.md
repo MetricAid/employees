@@ -1,0 +1,5 @@
+#Organization
+
+We're governed by a Board of Directors, with Mohan and Travis sitting on the Board from the company leadership. We raised a Series A funding round in November 2013. Our major funders are Arthur Ventures, Chicago Ventures, and Baird Ventures. Travis is CEO and Chief Privacy Officer. Mohan is President and Chief Product Officer. Ben is CTO and Chief Security Officer.
+
+We’re a distributed team with a primary office in Madison, WI. We also have a small office in San Antonio, TX, and shared space in Portalnd, OR. Being distributed means we work hard to assure all communication is equally accessible, whether communicating with the person sitting next to you or a person across the country. Below is our current organizational chart, showing where everybody sits and how we all work together. We’re very flat, so all people on the org are always accessible via email or, preferably, chat. Our chat client, Slack, is a great place to find a listing of all people at Catalyze with contact info for each.
