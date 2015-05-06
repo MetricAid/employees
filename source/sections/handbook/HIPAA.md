@@ -8,7 +8,7 @@ We are audited on an annual basis, and sometimes more frequently. In the case of
 
 ##Training
 
-All employees are required to complete HIPAA training upon joining Catalyze. Introductory training is located [here](https://training.catalyze.io/). Once training has been completed, you must complete this [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form). If you ever have questions about HIPAA, please email [hipaa@cataluze.io](mailto:hipaa@catalyze.io).
+All employees are required to complete HIPAA training upon joining Catalyze. Introductory training is located [here](https://training.catalyze.io/). Once training has been completed, you must complete this [form](https://docs.google.com/a/catalyze.io/forms/d/1QLzt97LNCSOdOSQxjoVZS9x8uCDYgCbzihT-3OtdNsU/viewform). If you ever have questions about HIPAA, please email [hipaa@catalyze.io](mailto:hipaa@catalyze.io).
 
 ##Physical Security of Computer and Phones
 
